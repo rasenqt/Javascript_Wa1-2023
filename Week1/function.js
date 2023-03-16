@@ -32,4 +32,5 @@ function hyperyopthenus(x,n){
     return power
     }
 
-asdsadsad
+
+    cacca
