@@ -31,6 +31,3 @@ function hyperyopthenus(x,n){
     
     return power
     }
-
-
-Ciao Ultima spiagag
