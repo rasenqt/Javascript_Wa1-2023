@@ -32,4 +32,3 @@ function hyperyopthenus(x,n){
     return power
     }
 
-ciao
