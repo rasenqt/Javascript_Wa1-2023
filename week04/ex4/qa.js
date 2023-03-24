@@ -90,9 +90,7 @@ async function query() {
 
 query().then((answsers)=>{})
 
-const answers2 = await query() ;
 
-const answers3 = query() ;
 
 
 ql.getQuestion(2)
